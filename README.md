@@ -65,7 +65,8 @@ Gesture classification and trigger mappings handled client-side for minimal late
 ## 🌐 Live Demo
 
 Experience SignSight in action:  
-🔗 **[SignSight – Try It Now](https://yashwanths814.github.io/SignSight/)**
+🔗 **[SignSight – Try It Now](https://shimmering-empanada-3ea18c.netlify.app/
+)**
 
 > No installation required — just open in your browser and allow webcam access.
 
