@@ -7,13 +7,6 @@
 
 With the rise of gesture-based interfaces and the growing need for hygienic, accessible tech, **SignSight** was created to reimagine how users interact with their monitors. Our goal: simple hand signs to perform everyday actions—perfect for touch-free computing and inclusive design.
 
-## 🌐 Live Demo
-
-Experience SignSight in action:  
-🔗 **[SignSight – Try It Now](https://yashwanths814.github.io/SignSight/)**
-
-> No installation required — just open in your browser and allow webcam access.
-
 
 ## 🧠 What It Does
 
@@ -75,7 +68,15 @@ Gesture classification and trigger mappings handled client-side for minimal late
 - 🗣 Combine voice commands with gestures  
 - 📺 Smart TV and extended device support  
 - 🧩 Browser extension integration  
-- ♿ Enhanced accessibility and calibration modes  
+- ♿ Enhanced accessibility and calibration modes
+
+## 🌐 Live Demo
+
+Experience SignSight in action:  
+🔗 **[SignSight – Try It Now](https://yashwanths814.github.io/SignSight/)**
+
+> No installation required — just open in your browser and allow webcam access.
+
 
 ## 📄 License
 
