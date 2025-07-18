@@ -61,14 +61,6 @@ Gesture classification and trigger mappings handled client-side for minimal late
 - No backend dependencies — completely client-side  
 - Optimized for smooth, low-latency interaction  
 
-## 🔮 What's Next
-
-- 📈 Expand gesture vocabulary and improve classification models  
-- 🎛 Allow user-defined gesture-action mappings  
-- 🗣 Combine voice commands with gestures  
-- 📺 Smart TV and extended device support  
-- 🧩 Browser extension integration  
-- ♿ Enhanced accessibility and calibration modes
 
 ## 🌐 Live Demo
 
