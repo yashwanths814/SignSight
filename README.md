@@ -1,7 +1,7 @@
 # ✋ SignSight
 
 **AI-powered gesture control for browsers. No mouse. No keyboard. Just you.**
-
+---
 
 ## 🚀 Inspiration
 
